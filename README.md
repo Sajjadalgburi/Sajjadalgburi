@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadalgburi&label=Profile%20views&color=a10eb4&style=flat" alt="sajjadalgburi" /> </p>
 
-- 🌱 I’m currently learning **Testing Fundamentals**
+- 🌱 I’m currently learning **Graphql**
 
 - 💬 Ask me about **Anything please!**
 
-- 📫 How to reach me **dfgsajjad@gmail.com**
+- 📫 How to reach me **sajjadalgburi.dev@gmail.com**
 
 - ⚡ Fun fact **Part-time comedian**
 
