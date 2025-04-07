@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadalgburi&label=Profile%20views&color=a10eb4&style=flat" alt="sajjadalgburi" /> </p>
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Anything please!**
 
