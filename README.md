@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sajjad Algburi</h1>
-<h3 align="center">A passionate software developer from Canada</h3>
+<h1 align="center">Hey there 👋, I'm Sajjad Algburi</h1>
+<h3 align="center">A Passionate Full Stack Engineer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadalgburi&label=Profile%20views&color=a10eb4&style=flat" alt="sajjadalgburi" /> </p>
 
