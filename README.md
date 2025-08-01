@@ -13,7 +13,7 @@
 
 - 🌐 Personal Site **[click me please!](https://www.sajjadalgburi.dev/)**
 
-- 🟢 State: **Open To Work**
+- 🟢 State: Prototyping Intern at Magic Hour AI!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
