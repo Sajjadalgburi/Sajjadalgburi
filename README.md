@@ -13,7 +13,7 @@
 
 - 🌐 Personal Site **[click me please!](https://www.sajjadalgburi.dev/)**
 
-- 🟢 State: Software Engineer at Magic Hour AI!
+- 🟢 State: Software Engineer at Magic Hour AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
